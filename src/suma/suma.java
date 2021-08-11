@@ -13,4 +13,11 @@ public class suma {
 		
 		System.out.println("Method 2 in class b");
 	}
+public void m4() {
+		
+		System.out.println("Method 2 in class b");
+	}public void m244() {
+		
+		System.out.println("Method 2 in class b");
+	}
 }
